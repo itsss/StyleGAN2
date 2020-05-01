@@ -1,8 +1,6 @@
 # StyleGAN2
 
-Implementation of
-> **Analyzing and Improving the Image Quality of StyleGAN** (StyleGAN2)
-> Authors: Tero Karras, Samuli Laine, Miika Aittala, Janne Hellsten, Jaakko Lehtinen, Timo Aila
+Implementation of **Analyzing and Improving the Image Quality of StyleGAN**
 
 ## Train
 This Implementation is a PyTorch Implementation.
